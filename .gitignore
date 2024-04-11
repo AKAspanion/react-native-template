@@ -45,3 +45,20 @@ android
 
 # ios
 ios
+
+.DS_Store
+node_modules
+.turbo
+*.log
+.next
+dist
+dist-ssr
+*.local
+.env
+.cache
+.yarn/cache
+.yarn/install-state.gz
+server/dist
+public/dist
+ios
+android
